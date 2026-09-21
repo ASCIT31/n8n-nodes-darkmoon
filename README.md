@@ -22,6 +22,14 @@ An [n8n](https://n8n.io) community node for [Darkmoon](https://github.com/ASCIT3
 
 <sub>The open source Darkmoon CLI, a specialist sub-agent session flagging CVE-2019-9978, the terminal engine an n8n workflow triggers to return findings.</sub>
 
+<br>
+
+<img src=".github/assets/dashboard.png" alt="Pro web dashboard, Darkmoon campaigns and severity breakdown" width="90%">
+
+<sub><b>Pro:</b> the paid Darkmoon Pro web dashboard, campaigns, severity breakdown and findings. Remediation pull requests are also a Pro tier feature.</sub>
+
+<sub><b>Web dashboard and remediation are Darkmoon Pro (paid) features; the open source edition is the CLI shown above.</b></sub>
+
 </div>
 
 It lets an n8n workflow **trigger a Darkmoon pentest against a target you are authorised to assess, pull back the findings, and review the fix pull requests the Darkmoon Pro remediation tier prepares**, so security testing and remediation review can be wired into CI/CD, ticketing, chat and reporting automations like any other step.
