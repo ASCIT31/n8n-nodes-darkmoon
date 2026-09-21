@@ -1,12 +1,28 @@
+<div align="center">
+
+<a href="https://github.com/ASCIT31/Dark-Moon"><img src=".github/assets/darkmoon-banner.png" alt="Darkmoon, autonomous AI penetration testing" width="100%"></a>
+
 # n8n-nodes-darkmoon
 
 ### Part of [Darkmoon, the open source autonomous AI penetration testing platform](https://github.com/ASCIT31/Dark-Moon)
 
 [![Star Dark-Moon](https://img.shields.io/github/stars/ASCIT31/Dark-Moon?style=social)](https://github.com/ASCIT31/Dark-Moon)
 
+[![n8n community node](https://img.shields.io/badge/n8n-community%20node-2667FF)](https://docs.n8n.io/integrations/community-nodes/installation/) [![License MIT](https://img.shields.io/badge/license-MIT-0A2472)](LICENSE) [![Local & privacy-first](https://img.shields.io/badge/engine-local%20%26%20privacy--first-87BFFF)](https://dark-moon.org) [![Website](https://img.shields.io/badge/site-dark--moon.org-0A2472)](https://dark-moon.org)
+
+</div>
+
 If Darkmoon is useful, a star on the [main repo](https://github.com/ASCIT31/Dark-Moon) helps others find it.
 
 An [n8n](https://n8n.io) community node for [Darkmoon](https://github.com/ASCIT31/Dark-Moon), the local, privacy-first autonomous AI penetration testing engine.
+
+<div align="center">
+
+<img src=".github/assets/dashboard.png" alt="The Darkmoon dashboard showing campaigns, severity breakdown and findings an n8n workflow can pull back" width="90%">
+
+<sub>The Darkmoon dashboard, campaigns, severity breakdown and the findings an n8n workflow pulls back.</sub>
+
+</div>
 
 It lets an n8n workflow **trigger a Darkmoon pentest against a target you are authorised to assess, pull back the findings, and review the fix pull requests the Darkmoon Pro remediation tier prepares**, so security testing and remediation review can be wired into CI/CD, ticketing, chat and reporting automations like any other step.
 
