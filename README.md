@@ -18,9 +18,9 @@ An [n8n](https://n8n.io) community node for [Darkmoon](https://github.com/ASCIT3
 
 <div align="center">
 
-<img src=".github/assets/dashboard.png" alt="The Darkmoon dashboard showing campaigns, severity breakdown and findings an n8n workflow can pull back" width="90%">
+<img src=".github/assets/cli_sub-agent-1.png" alt="Darkmoon open source CLI, a specialist sub-agent session exploiting a target in the terminal" width="90%">
 
-<sub>The Darkmoon dashboard, campaigns, severity breakdown and the findings an n8n workflow pulls back.</sub>
+<sub>The open source Darkmoon CLI, a specialist sub-agent session flagging CVE-2019-9978, the terminal engine an n8n workflow triggers to return findings.</sub>
 
 </div>
 
